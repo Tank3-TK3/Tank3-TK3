@@ -1,19 +1,20 @@
 ## :octocat: Hello World!
 ### :trollface: I'm Roberto Cruz (Tank3) Lozano
+---
 #### I'm... :superhero_man:
 - ... a Software Engineering student at the Autonomous University of Querétaro (UAQ). :books:
 - ... currently working on creating and improving my portfolio of projects. :space_invader:
-
+---
 📫 How to reach me:
 > - :e-mail: robertocruzlozano97@hotmail.com
 > - :e-mail: rcruz15@alumnos.uaq.mx
-
+---
 :earth_americas: My social networks:
 - :sunglasses: [Facebook](https://www.facebook.com/roberto.cruzlozano.16)
 - :bird: [Twitter](https://twitter.com/xTank3x)
 - :camera: [Instagram](https://www.instagram.com/rcruzl15_tk3/)
-
-![Tank3-TK3 GitHub stats](https://github-readme-stats.vercel.app/api?username=Tank3-TK3&hide=contribs,prs&show_icons=true&theme=tokyonight)
+---
+![Tank3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tank3-TK3&hide=contribs,prs&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tank3-TK3&layout=compact&theme=tokyonight)
 
 <!--
