@@ -1,4 +1,7 @@
-### Hi there :octocat:
+### :octocat: Hello World!
+#### Roberto Cruz (Tank3) Lozano :sunglasses:
+- I'm a Software Engineering student at the Autonomous University of Querétaro (UAQ). :books:
+- I'm currently working on creating and improving my portfolio of projects. :space_invader:
 
 <!--
 **Tank3-TK3/Tank3-TK3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
