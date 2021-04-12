@@ -13,6 +13,9 @@
 - :bird: [Twitter](https://twitter.com/xTank3x)
 - :camera: [Instagram](https://www.instagram.com/rcruzl15_tk3/)
 
+![Tank3-TK3 GitHub stats](https://github-readme-stats.vercel.app/api?username=Tank3-TK3&hide=contribs,prs&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tank3-TK3&layout=compact&theme=tokyonight)
+
 <!--
 **Tank3-TK3/Tank3-TK3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
