@@ -1,5 +1,5 @@
 ### :octocat: Hello World!
-#### I'm Roberto Cruz (Tank3) Lozano :godmode:
+#### :godmode: My name is Roberto Cruz (Tank3) Lozano :godmode:
 
 ---
 
@@ -11,7 +11,7 @@ I'm...
 
 📫 How to reach me:
 
-:e-mail: robertocruzlozano97@hotmail.com or rcruz15@alumnos.uaq.mx 
+> robertocruzlozano97@hotmail.com or rcruz15@alumnos.uaq.mx 
 
 ---
 
