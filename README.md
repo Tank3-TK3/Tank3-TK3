@@ -1,8 +1,6 @@
 ### :octocat: Hello World!
 #### :godmode: My name is Roberto Cruz (Tank3) Lozano :godmode:
 
----
-
 I'm...
 - ... a Software Engineering student at the Autonomous University of Querétaro (UAQ). :books:
 - ... currently working on creating and improving my portfolio of projects. :space_invader:
@@ -12,8 +10,6 @@ I'm...
 📫 How to reach me:
 
 > robertocruzlozano97@hotmail.com or rcruz15@alumnos.uaq.mx 
-
----
 
 :earth_americas: My social networks:
 
