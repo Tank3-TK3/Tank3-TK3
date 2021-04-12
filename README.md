@@ -5,7 +5,8 @@
 - ... currently working on creating and improving my portfolio of projects. :space_invader:
 
 📫 How to reach me:
-> :e-mail: robertocruzlozano97@hotmail.com
+> - :e-mail: robertocruzlozano97@hotmail.com
+> - :e-mail: rcruz15@alumnos.uaq.mx
 
 :earth_americas: My social networks:
 - :sunglasses: [Facebook](https://www.facebook.com/roberto.cruzlozano.16)
