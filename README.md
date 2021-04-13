@@ -1,4 +1,4 @@
-## Hello World!
+![Hello World!](https://github.com/Tank3-TK3/Tank3-TK3/blob/main/img/hw.gif)
 ### :godmode: My name is Roberto Cruz (Tank3) Lozano :godmode:
 
 - I'm...
@@ -18,9 +18,7 @@
 
 <!--
 **Tank3-TK3/Tank3-TK3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
