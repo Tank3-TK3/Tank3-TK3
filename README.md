@@ -5,11 +5,9 @@
   - ... a Software Engineering student at the Autonomous University of Querétaro (UAQ). :books:
   - ... currently working on creating and improving my portfolio of projects. :space_invader:
 
----
+:mailbox: How to reach me:
 
-📫 How to reach me:
-
-> robertocruzlozano97@hotmail.com or rcruz15@alumnos.uaq.mx 
+- robertocruzlozano97@hotmail.com or rcruz15@alumnos.uaq.mx 
 
 :earth_americas: My social networks:
 
@@ -17,7 +15,7 @@
 [![Twitter](https://github.com/Tank3-TK3/Tank3-TK3/blob/main/img/twitter.png)](https://twitter.com/xTank3x)
 [![Instagram](https://github.com/Tank3-TK3/Tank3-TK3/blob/main/img/instagram.png)](https://www.instagram.com/rcruzl15_tk3/)
 
----
+:superhero_man: Tank3 stats:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tank3-TK3&hide=contribs,prs&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tank3-TK3&layout=compact&theme=tokyonight)
