@@ -13,13 +13,13 @@
 
 :earth_americas: My social networks:
 
-:sunglasses: [Facebook](https://www.facebook.com/roberto.cruzlozano.16)
-:bird: [Twitter](https://twitter.com/xTank3x)
-:camera: [Instagram](https://www.instagram.com/rcruzl15_tk3/)
+[![Facebook](https://github.com/Tank3-TK3/Tank3-TK3/blob/main/img/facebook.png)](https://www.facebook.com/roberto.cruzlozano.16)
+[![Twitter](https://github.com/Tank3-TK3/Tank3-TK3/blob/main/img/twitter.png)](https://twitter.com/xTank3x)
+[![Instagram](https://github.com/Tank3-TK3/Tank3-TK3/blob/main/img/instagram.png)](https://www.instagram.com/rcruzl15_tk3/)
 
 ---
 
-![Tank3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tank3-TK3&hide=contribs,prs&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tank3-TK3&hide=contribs,prs&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tank3-TK3&layout=compact&theme=tokyonight)
 
 <!--
