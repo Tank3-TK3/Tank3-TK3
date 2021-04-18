@@ -10,7 +10,7 @@
 [![Twitter](https://github.com/Tank3-TK3/Tank3-TK3/blob/main/img/twitter.png)](https://twitter.com/xTank3x)
 [![Instagram](https://github.com/Tank3-TK3/Tank3-TK3/blob/main/img/instagram.png)](https://www.instagram.com/rcruzl15_tk3/)
 
-#### :superhero_man: Tank3 stats:
+#### :suspect: Tank3 stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tank3-TK3&layout=compact&theme=highcontrast)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tank3-TK3&hide=contribs,prs&show_icons=true&theme=highcontrast)
