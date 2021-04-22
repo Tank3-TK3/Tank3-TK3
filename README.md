@@ -1,3 +1,5 @@
+![Tank3](https://github.com/Tank3-TK3/Tank3-TK3/blob/main/img/TK3.jpg)
+
 ### :godmode: My name is Roberto Cruz (Tank3) Lozano :godmode:
 
 - I'm...
