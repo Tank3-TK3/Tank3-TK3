@@ -3,8 +3,9 @@
 ![Tank3](https://github.com/Tank3-TK3/Tank3-TK3/blob/main/img/TK3.jpg)
 
 - I'm...
-  - ... a Software Engineering student at the Autonomous University of Querétaro (UAQ). :books:
+  - ... a Software Engineering student at the Autonomous University of Queretaro. :books:
   - ... currently working on creating and improving my portfolio of projects. :space_invader:
+  - ... currently learning Descriptive Statistics, Data Science and Artificial Intelligence. :robot:
 
 #### :earth_americas: How to reach me:
 
