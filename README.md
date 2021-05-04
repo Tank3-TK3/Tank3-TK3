@@ -1,6 +1,6 @@
 ## :godmode: My name is Roberto Cruz (Tank3) Lozano :godmode:
 
-![Tank3](https://github.com/Tank3-TK3/Tank3-TK3/blob/main/img/TK3.jpg)
+![Tank3](https://github.com/Tank3-TK3/Tank3-TK3/blob/main/img/TK3-2.jpg)
 
 - I'm...
   - ... a Software Engineering student at the Autonomous University of Queretaro. :books:
