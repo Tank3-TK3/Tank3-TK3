@@ -1,4 +1,4 @@
-## :godmode: Hi name is Roberto Cruz Lozano :godmode:
+## :godmode: Hi, I'm Roberto Cruz Lozano :godmode:
 
 ![Tank3](https://github.com/Tank3-TK3/Tank3-TK3/blob/main/img/TK3.jpg)
 
