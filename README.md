@@ -1,17 +1,17 @@
-## :godmode: Hi, I'm Roberto Cruz Lozano :godmode:
+# :godmode: Hi, I'm Roberto Cruz Lozano :godmode:
 
 ![Tank3](https://github.com/Tank3-TK3/Tank3-TK3/blob/main/img/TK3-3.png)
 
 ---
 
-- I'm...
+## I'm...
   - ... a Software Engineering student at the Autonomous University of Queretaro. :books:
   - ... currently working on creating and improving my portfolio of projects. :space_invader:
   - ... currently learning Descriptive Statistics, Data Science and Artificial Intelligence. :robot:
 
 ---
 
-### :earth_americas: How to reach me:
+## :earth_americas: How to reach me:
 
 [![Facebook](https://github.com/Tank3-TK3/Tank3-TK3/blob/main/img/facebook.png)](https://www.facebook.com/roberto.cruzlozano.16)
 [![Twitter](https://github.com/Tank3-TK3/Tank3-TK3/blob/main/img/twitter.png)](https://twitter.com/xTank3x)
