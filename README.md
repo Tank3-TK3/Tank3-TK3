@@ -7,7 +7,7 @@
 ## I'm...
   - ... a Software Engineering student at the Autonomous University of Queretaro. :books:
   - ... currently working on creating and improving my portfolio of projects. :space_invader:
-  - ... currently learning Descriptive Statistics, Data Science and Artificial Intelligence. :robot:
+  - ... currently learning Descriptive/Inferential Statistics, Data Science and Artificial Intelligence. :robot:
 
 ---
 
