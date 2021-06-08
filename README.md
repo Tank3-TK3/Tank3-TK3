@@ -9,8 +9,6 @@
   - ... currently working on creating and improving my portfolio of projects. :space_invader:
   - ... currently learning Descriptive/Inferential Statistics, Data Science and Artificial Intelligence. :robot:
 
----
-
 ## :earth_americas: How to reach me:
 
 [![Facebook](https://github.com/Tank3-TK3/Tank3-TK3/blob/main/img/facebook.png)](https://www.facebook.com/roberto.cruzlozano.16)
