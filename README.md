@@ -22,6 +22,6 @@
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tank3-TK3&show_icons=true&theme=chartreuse-dark&custom_title=GitHub%20Stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tank3-TK3&layout=compact&theme=chartreuse-dark&langs_count=8&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tank3-TK3&layout=compact&theme=chartreuse-dark&langs_count=6&hide=html,javascript)
 
 ---
