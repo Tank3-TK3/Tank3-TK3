@@ -7,17 +7,18 @@
 ---
 
 ## I'm...
-  - ... a Software Engineering student at the Autonomous University of Queretaro. :books:
-  - ... currently working on creating and improving my portfolio of projects. :space_invader:
+  - ... a Software Engineering at the Autonomous University of Queretaro. :books:
+  - ... an Blue Journey - Intern at IBM. 
   - ... currently learning Descriptive/Inferential Statistics, Data Science and Artificial Intelligence. :robot:
 
 ---
 
 ## :earth_americas: How to reach me:
 
-[![Facebook](https://github.com/Tank3-TK3/Tank3-TK3/blob/main/img/facebook.png)](https://www.facebook.com/roberto.cruzlozano.16)
-[![Twitter](https://github.com/Tank3-TK3/Tank3-TK3/blob/main/img/twitter.png)](https://twitter.com/xTank3x)
-[![Instagram](https://github.com/Tank3-TK3/Tank3-TK3/blob/main/img/instagram.png)](https://www.instagram.com/rcruzl15_tk3/)
+[![LinkedIn](https://github.com/Tank3-TK3/Tank3-TK3/blob/main/img/linkedin.png)](www.linkedin.com/in/roberto-cruz-lozano)
+[![Facebook](https://github.com/Tank3-TK3/Tank3-TK3/blob/main/img/facebook.png)](www.facebook.com/roberto.cruzlozano.16)
+[![Twitter](https://github.com/Tank3-TK3/Tank3-TK3/blob/main/img/twitter.png)](twitter.com/xTank3x)
+[![Instagram](https://github.com/Tank3-TK3/Tank3-TK3/blob/main/img/instagram.png)](www.instagram.com/rcruzl15_tk3/)
 
 ---
 
