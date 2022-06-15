@@ -7,8 +7,8 @@
 ---
 
 ## I'm...
-  - ... a Software Engineering at the Autonomous University of Queretaro. :books:
   - ... an Blue Journey - Intern at IBM. :blue_heart:
+  - ... a Software Engineering at the Autonomous University of Queretaro. :books:
   - ... currently learning Descriptive/Inferential Statistics, Data Science and Artificial Intelligence. :robot:
 
 ---
