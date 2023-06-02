@@ -7,7 +7,7 @@
 ---
 
 ## I'm...
-  - ... an Application Developer at IBM. :blue_heart:
+  - ... an Application Developer at IBM.
   - ... a Software Engineering at the Autonomous University of Queretaro. :books:
   - ... currently learning Descriptive/Inferential Statistics, Data Science and Artificial Intelligence. :robot:
 
